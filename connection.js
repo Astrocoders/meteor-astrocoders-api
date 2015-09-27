@@ -1,0 +1,1 @@
+Astrocoders._connection = DDP.connect(Astrocoders._api);

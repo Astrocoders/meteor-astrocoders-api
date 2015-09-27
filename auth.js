@@ -1,0 +1,3 @@
+Astrocoders.authenticate = function(){
+	
+}
